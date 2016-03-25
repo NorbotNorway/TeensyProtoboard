@@ -8,3 +8,7 @@ All pins are broken out to separate headers. The outermost headers are GND, the 
 There is a Power-LED, and a RX and TX LED for displaying serial communication.
 
 ![Screenshot](https://raw.githubusercontent.com/NorbotNorway/TeensyProtoboard/master/TeensyProtoboard.png)
+
+# TODO
+
+- i2c resistors
